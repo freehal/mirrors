@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+
+<head>
+
+<link rel="home" type="text/html" title="home:Software-Verzeichnis" href="/software/" />
+<link rel="copyright" title="Heise Zeitschriften Verlag" href="/kontakt/impressum.shtml" />
+<link rel="author" title="Kontakt" href="mailto:software%40heise.de" />
+<link rel="copyright" title="Copyright" href="/kontakt/impressum.shtml" />
+<link title="heise Software-Verzeichnis" type="application/opensearchdescription+xml" rel="search" href="http://www.heise.de/software/search.xml" />
+<link rel="alternate" type="application/atom+xml" title="Neuzug&auml;nge und Updates" href="http://www.heise.de/software/rss/rss_neunv.xml" />
+<link rel="alternate" type="application/atom+xml" title="Top-Downloads" href="http://www.heise.de/software/rss/rss_dwl.xml" />
+<link rel="alternate" type="application/atom+xml" title="Am besten bewertet" href="http://www.heise.de/software/rss/rss_ranking.xml" />
+
+
+<link rel="apple-touch-icon-precomposed" href="/software/icons/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/software/icons/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/software/icons/apple-touch-icon-72x72-precomposed.png" />
+
+<link rel="stylesheet" type="text/css" href="/js/plugins/socialshareprivacy/socialshareprivacy.css">
+<link href="/stil/standard2008.css" rel="stylesheet" type="text/css" />
+<link href="/stil/navi_top2012.css" rel="stylesheet" type="text/css" />
+<link href="/stil/heise-ui.css"     rel="stylesheet" type="text/css" />
+
+<!-- HEISE-APPLICATION-HEAD-CROP-BEGIN -->
+<link href="/stil/software/standard2012.css?37b62b508a07f382f55f" rel="stylesheet" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="application-name" content="Software zum Download">
+<meta name="msapplication-tooltip" content="heise Software-Verzeichnis">
+<meta name="msapplication-starturl" content="/download/">
+<meta name="msapplication-TileImage" content="/software/icons/windows-icon-144.png">
+<meta name="msapplication-TileColor" content="#5fb9e1">
+
+
+
+<!-- HEISE-APPLICATION-HEAD-CROP-END -->
+<link href="/stil/drucken.css" rel="stylesheet" type="text/css" media="print" />
+
+
+<!-- HEISE-APPLICATION-HEAD-CROP-BEGIN -->
+<title>JEliza - Download - heise online</title>
+
+<meta name="DC.identifier" content="http://heise.de/-sw55680" /><link rel="image_src" href="http://www.heise.de/imagine/swvz-programme/KajmjkGiVB7ymkJ6EjxRNko5OVI/preview/JEliza.jpg" />
+<meta property="og:url" content="/download/jeliza-1155680.html" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="JEliza 2.2.2" />
+<meta property="og:description" content="Simuliert mit Hilfe "künstlicher Intelligenz" einen Gesprächspartner, mit dem der Nutzer chatten kann" />
+<meta property="og:site_name" content="heise Software-Verzeichnis" />
+<meta property="og:image" content="http://www.heise.de/imagine/swvz-programme/KajmjkGiVB7ymkJ6EjxRNko5OVI/content/JEliza.jpg" />
+<meta name="robots" content="index, follow, noodp" />
+<meta property="og:image" content="http://www.heise.de/software/icons/software_verzeichnis.png" />
+<meta name="keywords" content="JEliza,2.2.2,Open Source,Spiel &amp; Spa&szlig;,spezielle Simulationen,Download,Software" />
+<meta name="description" content="Download: JEliza 2.2.2, kostenlos (Deutsch). Über JEliza: Simuliert mit Hilfe &quot;künstlicher Intelligenz&quot; einen Gesprächspartner, mit dem der Nutzer chatten k..." />
+<!-- HEISE-APPLICATION-HEAD-CROP-END -->
+
+<!-- <meta http-equiv="content-type" content="text/html; charset=utf-8" /> -->
+<meta http-equiv="content-language" content="de" />
+<meta name="copyright" content="Heise Zeitschriften Verlag" />
+
+
+<link href="/favicon_software2009.ico" rel="shortcut icon" />
+
+<!-- HEISE-APPLICATION-HEAD-CROP-BEGIN -->
+<script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/softwarevz/prototype-1.5.1.1.min.js"></script>
+
+<script type="text/javascript" src="//script.ioam.de/iam.js"></script>
+<!-- HEISE-APPLICATION-HEAD-CROP-END -->
+
+</head>
+
+
+<body>
+
+
+<!--googleoff: index-->
+<div class="heisetopnavi no-touch heisetopnavi_relaunch" style="font-size: 16px;">
+    <div class="heisetopnavi_header">
+        <header role="banner">
+            <div class="heisetopnavi_login">
+                <script type="text/javascript" src="//www.heise.de/js/ho/login.min.js"></script>
+                <div id="navi_login">
+                    <p><a href="https://www.heise.de/userdb/sso?rm=show_login&amp;dirid=1&amp;objekt=/">Einloggen</a> auf heise online</p>
+                </div>
+            </div>
+            <nav role="navigation">
+                <div class="heisetopnavi_hover_legacy">
+                    <a href="//www.heise.de/index.html/from/navi_oben_ho" class="heisetopnavi_logo" title="heise online">
+                        <img src="//www.heise.de/icons/ho/heise_online_logo_top.gif" width="200" height="44" alt="heise online" id="heisetopnavi_ho_logo_top_img" />
+                    </a>
+                    <a href="#heisetopnavi_sub_container" class="heisetopnavi_button" aria-haspopup="true">Menü auf-/zuklappen</a>
+                    <div id="heisetopnavi_sub_container">
+                        <ul id="heisetopnavi_sub">
+                            <li>
+                                <ul>
+                                    <li class="heisetopnavi_ho"><a href="//www.heise.de/index.html/from/navi_oben_ho" title="heise online – IT-News" name="dachzeile.ho.ho">News</a></li>
+                                    <li class="heisetopnavi_ct"><a href="//www.heise.de/ct/from/navi_oben_ct" title="c't – Magazin für Computertechnik" name="dachzeile.ho.ct">c't</a></li>
+                                    <li class="heisetopnavi_ix"><a href="//www.heise.de/ix/from/navi_oben_ix" title="iX – Magazin für professionelle Informationstechnik" name="dachzeile.ho.ix">iX</a></li>
+                                    <li class="heisetopnavi_tr"><a href="//www.heise.de/tr/from/navi_oben_tr" title="Technology Review – Das M.I.T.-Magazin für Innovation" name="dachzeile.ho.tr">Technology Review</a></li>
+                                    <li class="heisetopnavi_mac"><a href="//www.heise.de/mac-and-i/from/navi_oben_mac" title="Mac &amp; i – Nachrichten, Tests, Tipps und Meinungen rund um Apple" name="dachzeile.ho.mac-and-i">Mac &amp; i</a></li>
+                                    <li class="heisetopnavi_tp"><a href="//www.heise.de/tp/from/navi_oben_tp" title="Telepolis" name="dachzeile.ho.tp">Telepolis</a></li>
+                                    <li class="heisetopnavi_hh"><a href="//www.heise.de/hardware-hacks/from/navi_oben_hh" title="c't Hacks – Kreativ mit Technik" name="dachzeile.ho.hardware-hacks">c't Hacks</a></li>
+                                    <li class="heisetopnavi_df"><a href="//www.heise.de/foto/special/from/navi_oben_df" title="Digitale Fotografie" name="dachzeile.ho.digitale-fotografie">Digitale Fotografie</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li class="heisetopnavi_aut"><a href="//www.heise.de/autos/from/navi_oben_aut" title="heise Autos – News, Tests, Technik, Service rund ums Auto" name="dachzeile.ho.autos">heise Autos</a></li>
+                                    <li class="heisetopnavi_dev"><a href="//www.heise.de/developer/from/navi_oben_dev" title="heise Developer – Informationen für Entwickler" name="dachzeile.ho.developer">heise Developer</a></li>
+                                    <li class="heisetopnavi_foto"><a href="//www.heise.de/foto/from/navi_oben_foto" title="heise Foto – Das Online-Magazin rund ums digitale Bild" name="dachzeile.ho.foto">heise Foto</a></li>
+                                    <li class="heisetopnavi_net"><a href="//www.heise.de/netze/from/navi_oben_net" title="heise Netze – Alles über Netzwerk-Technik" name="dachzeile.ho.netze">heise Netze</a></li>
+                                    <li class="heisetopnavi_op"><a href="//www.heise.de/open/from/navi_oben_op" title="heise open – Open Source im Unternehmen" name="dachzeile.ho.open">heise Open Source</a></li>
+                                    <li class="heisetopnavi_sec"><a href="//www.heise.de/security/from/navi_oben_sec" title="heise Security – News, Dienste und Foren zum Thema Computer-Sicherheit" name="dachzeile.ho.security">heise Security</a></li>
+                                    <li class="heisetopnavi_video"><a href="//www.heise.de/video/from/navi_oben_video" title="heise Video – Clips zu Nachrichten und Artikeln" name="dachzeile.ho.video">heise Video</a></li>
+                                    <li class="heisetopnavi_tech"><a href="//www.heise.de/redirect-to/techstage/from/navi_oben_techstage" title="TechStage – News, Tests &amp; Praxis zu Smartphones und Tablets mit Android, iOS, Windows Phone &amp; Co." name="dachzeile.ho.techstage">TechStage</a></li>
+                                </ul>
+                            </li>
+                            <li class="heisetopnavi_third">
+                                <ul>
+                                    <li class="heisetopnavi_swv"><a href="//www.heise.de/download/from/navi_oben_swv" title="Software-Verzeichnis – Software zum Download fuer Windows, Mac, Linux, iPhone, Symbian, Android" name="dachzeile.ho.download">Download</a></li>
+                                    <li class="heisetopnavi_pvg"><a href="//www.heise.de/preisvergleich/from/navi_oben_pvg" title="Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten" name="dachzeile.ho.preisvergleich">Preisvergleich</a></li>
+                                    <li class="heisetopnavi_job"><a href="//www.heise.de/jobs/from/navi_oben_job" title="heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche" name="dachzeile.ho.jobs">Stellenmarkt</a></li>
+                                    <li class="heisetopnavi_eve"><a href="//www.heise.de/events/from/navi_oben_eve" title="heise Events – Konferenzen, Seminare, Workshops" name="dachzeile.ho.events">Veranstaltungen</a></li>
+                                    <li class="heisetopnavi_itm"><a href="//www.heise.de/itmarkt/from/navi_oben_itm" title="IT-Markt – Branchenverzeichnis der IT-Fachhändler" name="dachzeile.ho.itmarkt">IT-Markt</a></li>
+                                    <li class="heisetopnavi_whi"><a href="//www.heise.de/whitepapers/from/navi_oben_whi" title="heise Whitepapers – Kostenloser Download aktueller Praxisbeispiele, Firmeninfos, Case Studies und Webcasts zu neuen Produkten, Strategien und Lösungen namhafter IT-Hersteller" name="dachzeile.ho.whitepapers">Whitepapers</a></li>
+                                    <li class="heisetopnavi_webcasts"><a href="//www.heise.de/redirect-to/webcasts/from/navi_oben_webcasts" title="heise Webcasts – Kompakte Firmeninformationen zu komplexen IT-Sachverhalten" name="dachzeile.ho.webcasts">Webcasts</a></li>
+                                    <li class="heisetopnavi_tarifr"><a href="//www.heise.de/redirect-to/tarifrechner/from/navi_oben_tarifr" title="Tarifrechner – DSL, Mobiles Internet, Handy, Telefon, Strom, Gas" name="dachzeile.ho.tarifrechner">Tarifrechner</a></li>
+                                </ul>
+                            </li>
+                            <li class="heisetopnavi_fourth">
+                                <ul>
+                                    <li class="heisetopnavi_shop"><a href="//www.heise.de/redirect-to/shop/from/navi_oben_shop" title="heise shop – IT Fachzeitschriften, Bücher, CD/DVD/Blu-ray" name="dachzeile.ho.shop">heise shop</a></li>
+                                    <li class="heisetopnavi_kio"><a href="//www.heise.de/artikel-archiv/from/navi_oben_kio" title="Artikel-Archiv – c't, iX, Technology Review, Digitale Fotografie, Mac &amp; i, Sonderhefte" name="dachzeile.ho.artikel-archiv">Artikel-Archiv</a></li>
+                                    <li class="heisetopnavi_abo"><a href="//www.heise.de/redirect-to/abo/from/navi_oben_abo" title="Abo – c't, iX, Technology Review, Digitale Fotografie, Mac &amp; i" name="dachzeile.ho.abo">Zeitschriften-Abo</a></li>
+                                    <li class="heisetopnavi_hmg"><a href="//www.heise.de/redirect-to/hmg/from/navi_oben_hmg" title="Arbeiten bei heise – Aktuelle Stellenangebote der Heise Medien Gruppe" name="dachzeile.ho.hmg">Arbeiten bei heise</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <script type="text/javascript">
+                // show Xmas logo from December 24th through 26th
+                ( function () {
+                    var here_and_now = new Date();
+                    if (
+                        here_and_now.getMonth() === 11 &&
+                        here_and_now.getDate()   >= 24 &&
+                        here_and_now.getDate()   <= 26
+                    ) {
+                        var top_logo = document.getElementById('heisetopnavi_ho_logo_top_img');
+                        top_logo.src = top_logo.src.replace( '_logo_top.gif', '_logo_top_xmas.gif' );
+                    }
+                } )();
+            </script>
+
+            
+
+            <form accept-charset="utf-8" method="get" action="http://www.heise.de/suche/" id="heisetopnavi_search" role="search">
+                <fieldset>
+                    <input type="text" class="search_text" value="" name="q" placeholder="in heise online suchen"><input type="image" src="//www.heise.de/icons/ho/heise_online_lupe.gif" alt="Los" class="search_submit" name="search_submit">
+                    <input type="hidden" class="search_hidden" value="search" name="rm">
+                </fieldset>
+            </form>
+        </header>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+if (typeof jQuery !== "undefined") {
+    jQuery(document).ready(function($) {
+        // Support Touch-Devices
+        if ('ontouchstart' in document) {
+            $('.heisetopnavi_relaunch').removeClass('no-touch');
+        }
+        $('.heisetopnavi_button').bind('touchstart', function(e) {
+            e.preventDefault();
+            if ($(e.target).is('a.heisetopnavi_button')) {
+                $(this).toggleClass('active');
+                $('.heisetopnavi header > nav').toggleClass('hover');
+            }
+        });
+
+        $('.heisetopnavi_relaunch .heisetopnavi_button').click(function(e) {
+            e.preventDefault();
+        });
+
+        // Support Keyboard
+        $('.heisetopnavi_relaunch .heisetopnavi_button').keyup(function(e) {
+            if (e.which == 13 && $(e.target).is('a.heisetopnavi_button')) {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').toggleClass('active');
+                $('.heisetopnavi_relaunch header > nav').toggleClass('hover');
+            }
+        });
+
+        /*
+         * Open/Close Menu with JavaScript for more Usability
+         */
+
+        $('.heisetopnavi_relaunch').removeClass('no-touch');
+
+        // Logo + Icon
+        $('.heisetopnavi_relaunch .heisetopnavi_hover_legacy').mouseenter(function() {
+            var timeout_id = window.setTimeout(function() {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').addClass('active');
+                $('.heisetopnavi_relaunch nav').addClass('hover');
+                $('body').addClass('refreshDOM');
+                $('body').removeClass('refreshDOM');
+            }, 300);
+            $(this).data('timeout_id', timeout_id);
+        });
+        $('.heisetopnavi_relaunch .heisetopnavi_hover_legacy').mouseleave(function() {
+            var timeout_id = $(this).data('timeout_id');
+            window.clearTimeout(timeout_id);
+            timeout_id = window.setTimeout(function() {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').removeClass('active');
+                $('.heisetopnavi_relaunch nav').removeClass('hover');
+                $('body').addClass('refreshDOM');
+                $('body').removeClass('refreshDOM');
+            }, 0);
+            $(this).data('timeout_id', timeout_id);
+        });
+    });
+
+    if (typeof heiseLogin != "undefined") {
+        heiseLogin.login_fill_navigation({});
+    }
+}
+</script>
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+	$(document).ready(function() {
+		$("form#heisetopnavi_search").attr("action", "/download/default.shtml");
+		$("form#heisetopnavi_search input.search_text").attr("name", "T");
+		$("form#heisetopnavi_search input.search_text").attr("placeholder", "Software suchen");
+	})
+})(jQuery);
+//--><!]]>
+</script>
+
+<!-- HEISE-APPLICATION-CROP-BEGIN -->
+<div id="softwareverzeichnis">
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+	var userid = "";
+	var hash   = "";
+//--><!]]>
+</script>
+
+<div id="loginurl" style="display:none">/userdb/sso?compatibility=1&amp;forward=%2Fdownload%2Fjeliza-1155680.html</div>
+
+<link href="/js/plugins/jquery-autocomplete/jquery-ui-1.8.11.autocomplete.css" rel="stylesheet" type="text/css" />
+<script src="/js/plugins/jquery-ui-1.8.18_cycle.custom.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+	$(document).ready(function() {
+		$( "#suchfeld" ).autocomplete({
+			source: function(request, response) {
+				$.ajax({
+					url: '/download/autocomplete/',
+					timeout: 1500,
+					data: {
+						acp: request.term,
+						maxRows: 12
+					},
+					success: function(data) {
+						response(data);
+					},
+					error: function(XMLHttpRequest, textStatus, errorThrown) {
+						response([]);
+					}
+				});
+			},
+			minLength: 3
+		});
+		
+		$('ul.ui-autocomplete li.ui-menu-item a').live('click', function(){
+			$('#schnellsuche').submit(); 
+		});
+	})
+})(jQuery);
+//--><!]]>
+</script>
+
+<div id="container">
+    <div id="container_content">
+
+	    <div id="kopf">
+
+	        <div id="logo_bereich">
+		        <div class="logo">
+		            <a href="/download/" title="heise Software-Verzeichnis"><img src="/software/icons/software_logo2010.gif" alt="heise Software-Verzeichnis" title="heise Software-Verzeichnis" width="200" height="60" /></a>
+		        </div>
+                <ul class="external_navigation">
+                    <li><a rel="external" title="heise Software-Verzeichnis bei Twitter" href="http://twitter.com/#!/heiseSV"><img alt="heise Software-Verzeichnis Twitter" src="/icons/ho/navi_icon_twitter_small.png"></a></li>
+                    <li><a rel="external" title="heise Software-Verzeichnis bei Facebook" href="http://www.facebook.com/software.verzeichnis"><img alt="heise Software-Verzeichnis Facebook" src="/icons/ho/navi_icon_facebook.png"></a></li>
+                    <li><a rel="external publisher" title="heise Software-Verzeichnis bei Google+" href="https://plus.google.com/104079606280691363668/"><img alt="heise Software-Verzeichnis Google+" src="/icons/ho/navi_icon_google.png"></a></li>
+                </ul>
+		        <div class="suche">
+		            
+			        <form name="SoftSearch" method="get" action="/download/suche-50000105000/" id="schnellsuche">
+			            <h4><span id="schnellsuche_T_behaelter"><input type="text" name="T" id="suchfeld" value="im Software-Verzeichnis" maxlength="50" size="13" onfocus="javascript:if (document.SoftSearch.T.value == 'im Software-Verzeichnis') document.SoftSearch.T.value = '';" onblur="suchbegriffAusLinksRauswerfen()" accesskey="s" class="textfield" /><img id="schnellsuche_reset" class="loeschenX" src="/software/icons/loeschen-x.gif" width="11" height="11" alt="" /></span><input type="submit" name="Suchen" value="suchen" class="search_submit" /></h4>
+			            <div><a href="/download/default.shtml?s=suche&amp;kat=274" rel="nofollow">Erweiterte Suche</a>
+<input type="hidden" name="global" value="1" />
+<input type="hidden" name="srt" value="n" />
+<input type="hidden" name="kat" value="274" /></div>
+			            <input type="hidden" name="wt_form" value="1" />
+			        </form>
+		             
+		        </div> 
+            </div> 
+            
+	        <div id="navigation_service">
+		        <div class="anzahl_inhalte">
+		            <a title="Sitemap" href="/download/sitemap">27.746 Programme | 1136 Webdienste | 139 E-Books</a>
+		        </div>
+		        <div id="beobachten">
+		            <a href="/download/beobachtet-50000307000/" title="Von Ihnen beobachtete Programme für Windows, Mac, Linux und Smartphones - Download - heise online " rel="nofollow">Sie beobachten <span class="gebucht" id="watchlist_anzahl_programme">0</span> Programme</a>
+		             
+		        </div> 		        
+		        
+	        </div> 
+
+	        <div id="navigation">
+		        <ul>
+		            
+			        <li class="aktiv"><a title="spezielle Simulationen, Top-Downloads des Monats für Windows, Apple, Linux und Smartphones" href="/download/spiel-spass/spezielle-simulationen-50000505274/">Alle Systeme</a></li>
+		            
+			        <li><a title="spezielle Simulationen, Top-Downloads des Monats für Windows" href="/download/windows/spiel-spass/spezielle-simulationen-50001505274/">Windows</a></li>
+		            
+			        <li><a title="spezielle Simulationen, Top-Downloads des Monats für Apple" href="/download/apple/spiel-spass/spezielle-simulationen-50002505274/">Apple</a></li>
+		            
+			        <li><a title="spezielle Simulationen, Top-Downloads des Monats für Linux" href="/download/linux/spiel-spass/spezielle-simulationen-50003505274/">Linux</a></li>
+		            
+			        <li><a title="spezielle Simulationen, Top-Downloads des Monats für Android, Blackberry, Mobile-Java, Palm OS, Symbian OS, Windows Mobile" href="/download/smartphones/spiel-spass/spezielle-simulationen-50004505274/">Smartphones</a></li>
+		            
+		        </ul>
+	        </div>
+
+	    </div> 
+
+	    <div id="mitte">
+	        <div id="mitte_links">
+	        	<div id="login-overlay"></div>
+
+
+
+
+
+    <div id="breadcrumb">
+    Sie sind hier: <a href="/download/" title="heise Software-Verzeichnis">Download</a> &gt; <a href="/download/spiel-spass-50000505262/" title="Spiel &amp; Spa&szlig;, Top-Downloads des Monats - Download - heise online ">Spiel &amp; Spa&szlig;</a> &gt; <a href="/download/spiel-spass/spezielle-simulationen-50000505274/" title="Spielsimulationen, Top-Downloads des Monats - Download - heise online ">spezielle Simulationen</a> &gt; JEliza 2.2.2
+</div>
+
+<div id="mitte_detail" class="hreview-aggregate" itemscope itemtype="http://schema.org/SoftwareApplication">
+	<div class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" />&nbsp;<img src="/software/icons/linux_2013_min.png" width="16" height="16" title="Linux" alt="Linux" /></span></div>
+	<h1 class="item"><span class="fn" itemprop="name">JEliza 2.2.2</span></h1>
+	<div class="programm_info">
+		<div class="aktionen" id="prgid_55680">
+			<a href="/software/rss/rss_prg55680.xml" class="rss"><img title="RSS-Feed &quot;JEliza 2.2.2&quot;" src="/software/icons/rss.gif" width="12" height="12" alt="RSS-Feed" /></a>
+			<a href="#" class="inaktiv beobachten_box" data-id="55680">beobachten</a>
+			<span class="bewertung rating">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt_halb.png" alt="" /><img width="15" height="15" src="/software/icons/stern_standard.png" alt="" />
+				<span class="durchschnitt">(2 Bewertungen, <a href="/download/faq#wichtung">gewichtet</a>: 2,90 Punkte)</span>
+				
+					<span class="average">3.5</span>
+					<span class="best">5</span>
+					<span class="votes">2</span>
+				
+			</span>
+		</div>
+		
+		
+			
+			<div class="links">
+				<div class="download_detail">
+				
+					<a name="swvz.detail.dl.JEliza" title="Download JEliza" href="/download/jeliza-6f5ede6b875ebc5f54584ddaeb81f157-1397311918-2655680.html">Download</a>
+				
+				
+				
+					
+					<div class="geprueft">
+						<img alt="Download geprüft von heise" title="Download geprüft von heise" src="/software/icons/download_heise_virengeprueft.png" width="74" height="74" />
+						<a class="download_virengeprueft download_eset" href="http://pubads.g.doubleclick.net/gampad/clk?id=24893390&iu=/6514/software"><img alt="Download geprüft von eset" title="Download geprüft von eset" src="/software/icons/download_heise_eset.gif" width="81" height="74" /></a>
+					
+					</div>
+				
+				</div>
+				<p>JEliza: Simuliert mit Hilfe "künstlicher Intelligenz" einen Gesprächspartner, mit dem der Nutzer chatten kann</p>
+				 
+					<script type="text/javascript" src="/js/ho/bilderstrecke-1.1.min.js?26622338ee27b21d8402"></script> 
+					<script type="text/javascript"> 
+					jQuery(document).ready(function($){ 
+						if($('.bilderstrecke_vorschau[data-json-url]').length > 0 && (!$.browser.msie || ($.browser.msie && $.browser.version > 8))) { 
+							$('.bilderstrecke_vorschau[data-json-url]').bilderstrecke({
+								width : '450'
+							}); 
+						} 
+					}); 
+					</script> 
+				 
+				<div id="screenshot" data-json-url="/download/jeliza-5255680.html" data-cid="swprg55680" class="bilderstrecke_vorschau">
+					
+						<a href="/download/jeliza-120155680.html" title="JEliza, Bildergalerie bei heise" class="weiter"><img alt="JEliza" title="Screenshots JEliza" src="http://www.heise.de/imagine/swvz-programme/KajmjkGiVB7ymkJ6EjxRNko5OVI/thumbnail/JEliza.jpg" width="279" height="228" itemprop="image" /></a><br />
+						<a href="/download/jeliza-120155680.html" title="JEliza, Bildergalerie bei heise">Bildergalerie JEliza</a>
+					
+				</div>
+				
+				
+				<p class="per_email_versenden"><a rel="nofollow" href="/download/mail?url=http%3A%2F%2Fwww.heise.de%2Fdownload%2Fjeliza-1155680.html&amp;md5=544d7d25c7d95f95b799d6c1dc353a0c">Per E-Mail versenden</a></p>
+				<p class="logo_link">
+					Verlinken Sie JEliza auf Ihrer Homepage oder Ihrem Blog:<br />
+					<a href="/download/jeliza-3755680.html" title="Verlinken Sie JEliza auf Ihrer Homepage oder Ihrem Blog"><img alt="JEliza - Download - heise online" title="JEliza - Download - heise online" src="/download/logo55680.png" width="269" height="69" /></a>
+				</p>
+			</div>
+			
+		
+		
+			
+			<div class="rechts">
+			<!-- Technische Infos -->
+				<dl>
+				<dt>Name:</dt>
+				<dd><h2>JEliza</h2></dd>
+				
+				<dt>Sprache:</dt>
+				<dd>Deutsch</dd>
+				
+				<dt>Betriebssysteme:</dt>
+				<dd>Windows NT, 2000, XP, Vista, 7, Linux</dd>
+				
+				
+					<dt>Download-Gr&ouml;&szlig;e:</dt>
+					<dd>6,77 MByte</dd>
+				
+					<dt>Lizenz:</dt>
+					<dd>Open Source</dd>
+				
+				<dt>Preis:</dt>
+				<dd>kostenlos (GNU-GPL)</dd>
+				<dt>Einschr&auml;nkungen:</dt>
+				<dd>keine</dd>
+				<dt>Hersteller/Autor:</dt>
+				<dd><a rel="external" href="/download/dwl55680" title="Download JEliza">Tobis Schulz</a></dd>
+				<dt>E-Mail-Adresse:</dt>
+				<dd>k.A.
+				</dd>
+				</dl>	    
+			<!-- Themen-Specials -->
+				    
+			<!-- Software-Kollektion -->
+			
+			
+			<!-- Rang -->
+				<dl>	
+				<dt>Bewertungsrang:</dt>
+				<dd>4654</dd>
+				
+					<dt>Download-Rang:</dt>
+					<dd>6727</dd>
+				
+				</dl>
+				<p><a rel="nofollow" href="/download/edit_55680" title="Programmdaten zu JEliza bearbeiten" class="link_farbe">Programmdaten aktualisieren</a><br />(nur f&uuml;r Autoren/Hersteller)</p>
+				<p><em>Datensatz zuletzt aktualisiert<br /> am 21.02.12</em></p>
+				<p><em>Alle Angaben ohne Gewähr.</em></p>
+			</div>
+			<div class="clear"></div>
+			<div id="social_bookmarks"></div>
+            <!--googleoff: index-->
+<!-- RSPEAK_STOP -->
+<div  class="bcadv ISI_IGNORE bcadv_oben"><a href="http://www.heise.de/mediadaten/online/" target="_blank" class="hinweis_anzeige">Anzeige</a><br><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var ff_targeting; if (!ff_targeting) { ff_targeting = {}; ff_targeting.version = $.browser && $.browser.mozilla ? $.browser.version : false; }
+document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/software/sw-details;sz=300x250,336x280;tile=1;_FF_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_FF_', ff_targeting.version ? ';ff_version=' + ff_targeting.version : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/software/sw-details;sz=300x250,336x280;tile=1;_FF_;ord=1096602066?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/software/sw-details;sz=300x250,336x280;tile=1;_FF_;ord=1096602066?" /></a></div></noscript>
+</div>
+<!-- RSPEAK_START -->
+<!--googleon: index-->
+			<!-- Melden -->					
+			<p class="melden"><strong>Melden:</strong>
+<a href="/download/jeliza-1155680.html?s=meldung_version" rel="nofollow">Neue Version</a> 
+| <a href="/download/jeliza-1155680.html?s=meldung_daten" rel="nofollow">Falsche Programmdaten</a> 
+| <a href="/download/jeliza-1155680.html?s=meldung_f" rel="nofollow">Download-Probleme</a>
+| <a href="/download/jeliza-1155680.html?s=meldung_virus" rel="nofollow">Viren/Trojaner/Spyware</a> 
+</p>
+
+			
+		
+	</div> 
+			
+		
+			
+			<a name="kommentare"></a>
+<div class="kommentare">
+
+
+	<h4>Meinungen zu JEliza</h4>
+
+
+
+
+<span id="neuer_kommentar"></span>
+
+<p class="infos">
+		<a name="kommentar1"></a>
+		<span class="nummer">Nr. 1</span>
+		<span class="username">netsurfer912</span>
+		<span class="datum">04.12.09 17:39</span>
+		<a href="/download/jeliza-748-3255680.html" title="Kommentar melden" rel="nofollow" class="melden">melden</a>
+		
+    </p>    
+    <div class="kommentar">
+    	
+    		Was habe ich falsch gemacht?:
+
+JELiza: Hi! : &lt;jeliza wartet&gt;&lt;jeliza surft im WWW&gt;
+Mensch:Wie alt bist du? : &lt;jeliza h&ouml;rt zu&gt;&lt;jeliza denkt nach&gt;
+
+&lt;JELiza FUNKTIONIERT NICHT MEHR&gt;!
+    	
+		
+		<div class="kommentar_pfeil"></div>
+	</div>
+    <p class="optionen">
+		<span class="user458293" style="display:none"><a href="/download/jeliza-748-3455680.html" rel="nofollow">Kommentar bearbeiten</a></span>
+		
+    </p>
+
+
+
+
+
+
+	
+	    <h4>Bitte teilen Sie anderen Ihre Meinung mit.</h4>
+	    <p>Sie m&uuml;ssen sich <a href="/userdb/sso?compatibility=1&amp;forward=%2Fdownload%2Fjeliza-1155680.html">einloggen</a> um Kommentare schreiben zu k&ouml;nnen.</p>
+	
+
+
+</div>
+		 
+			
+				<div class="aehnliche_programme">
+					
+						<h4>Diese Programme k&ouml;nnten Sie auch interessieren</h4>
+						
+							<div class="sponsored_links">
+								<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var ff_targeting; if (!ff_targeting) { ff_targeting = {}; ff_targeting.version = $.browser && $.browser.mozilla ? $.browser.version : false; }
+document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/software/sw-details;sz=700x250;tile=2;_FF_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_FF_', ff_targeting.version ? ';ff_version=' + ff_targeting.version : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/software/sw-details;sz=700x250;tile=2;_FF_;ord=1096602066?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/software/sw-details;sz=700x250;tile=2;_FF_;ord=1096602066?" /></a></div></noscript>
+
+							</div>
+						
+						
+<div class="programmteaser">
+	
+    <h3>
+		<span class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" />&nbsp;<img src="/software/icons/mac_2013_min.png" width="16" height="16" title="Apple" alt="Apple" /></span></span>
+		<a  href="/download/flow-1141877.html" title="flOw 14.04.2006 - Download - heise online" id="prg_41877_name">flOw 14.04.2006</a>
+		<span class="lizenz">kostenlos</span>
+    </h3>
+    <div class="programm_info">
+		<div class="aktionen" id="prgid_41877">
+			<a href="#" class="inaktiv beobachten_box" data-id="41877">beobachten</a>
+			<span class="bewertung">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_standard.png" alt="" />
+				<span class="durchschnitt" title="gewichtet: 3,76 Punkte">(16)</span>
+			</span>
+		</div>
+		
+		<div class="text">
+			
+				<a  href="/download/flow-1141877.html" title="flOw 14.04.2006 - Download - heise online">
+				<img src="http://www.heise.de/imagine/swvz-programme/E61uCaDSQdwmzeiBm3ice2U5rtk/gallery/flOw.jpg" width="120" height="60" title="flOw 14.04.2006" alt="flOw 14.04.2006" /></a>
+			
+			<p><a title="flOw 14.04.2006 - Download - heise online" href="/download/flow-1141877.html">Meditatives Flash-Spiel mit neuartigem Spielkonzept: der Spieler muss einen kleinen Organismus im Wasser durch eine surreale Welt lenken und ihm Nahrung in Form anderer Organismen beschaffen, damit er selbst wachsen und letztendlich unsterblich werden kann</a></p>
+			<span class="prg_info">06.09.10, Englisch</span>
+			
+				
+				<p class="kommentare_trefferliste"><a href="/download/flow-1141877.html#kommentare" title="flOw 14.04.2006 kommentieren">Jetzt kommentieren</a></p>
+			
+		</div>
+	</div>
+	
+</div>
+
+<div class="programmteaser">
+	
+    <h3>
+		<span class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" />&nbsp;<img src="/software/icons/mac_2013_min.png" width="16" height="16" title="Apple" alt="Apple" />&nbsp;<img src="/software/icons/linux_2013_min.png" width="16" height="16" title="Linux" alt="Linux" /></span></span>
+		<a  href="/download/simutrans.html" title="Simutrans 112.3 - Download - heise online" id="prg_5499_name">Simutrans 112.3</a>
+		<span class="lizenz">kostenlos</span><span class="anzahl_kommentare_durchschnitt">3</span>
+    </h3>
+    <div class="programm_info">
+		<div class="aktionen" id="prgid_5499">
+			<a href="#" class="inaktiv beobachten_box" data-id="5499">beobachten</a>
+			<span class="bewertung">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_standard.png" alt="" />
+				<span class="durchschnitt" title="gewichtet: 3,83 Punkte">(24)</span>
+			</span>
+		</div>
+		
+		<div class="text">
+			
+				<a  href="/download/simutrans.html" title="Simutrans 112.3 - Download - heise online">
+				<img src="http://www.heise.de/imagine/swvz-programme/tNkEyU4rnuibtBvUKniwWAshnNY/gallery/Simutrans.jpg" width="113" height="90" title="Simutrans 112.3" alt="Simutrans 112.3" /></a>
+			
+			<p><a title="Simutrans 112.3 - Download - heise online" href="/download/simutrans.html">Transport- und Wirtschafts-Simulation im Stil von "Transport Tycoon Deluxe"; auch im Netzwerk gegen andere Spieler spielbar</a></p>
+			<span class="prg_info">03.02.14, Deutsch/Englisch, Test in c't 12/01 </span>
+			
+				<p class="kommentare_trefferliste"><strong>Gro&szlig;erElch</strong> kommentiert: &quot;Hm, ich finde mich nur sehr schwer im Spiel zurecht. Ich...&quot;</p>
+				
+			
+		</div>
+	</div>
+	
+</div>
+
+<div class="programmteaser">
+	
+    <h3>
+		<span class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" />&nbsp;<img src="/software/icons/mac_2013_min.png" width="16" height="16" title="Apple" alt="Apple" />&nbsp;<img src="/software/icons/linux_2013_min.png" width="16" height="16" title="Linux" alt="Linux" /></span></span>
+		Webdienst: <a  href="/download/stop-disasters-1156082.html" title="Stop Disasters - Download - heise online" id="prg_56082_name">Stop Disasters</a>
+		<span class="lizenz">kostenlos</span><span class="anzahl_kommentare_durchschnitt">1</span>
+    </h3>
+    <div class="programm_info">
+		<div class="aktionen" id="prgid_56082">
+			<a href="#" class="inaktiv beobachten_box" data-id="56082">beobachten</a>
+			<span class="bewertung">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" />
+				<span class="durchschnitt" title="gewichtet: 3,50 Punkte">(2)</span>
+			</span>
+		</div>
+		
+		<div class="text">
+			
+				<a  href="/download/stop-disasters-1156082.html" title="Stop Disasters - Download - heise online">
+				<img src="http://www.heise.de/imagine/swvz-programme/o34t1nBlqIpeaGiPW1mUfI4ivKU/gallery/Stop-Disasters.jpg" width="119" height="90" title="Stop Disasters" alt="Stop Disasters" /></a>
+			
+			<p><a title="Stop Disasters - Download - heise online" href="/download/stop-disasters-1156082.html">Spiel der UN-Organisation "International Strategy for Disaster Reduction" (ISDR), bei dem der Spieler Katastrophen wie Hurrikane, Tsunamis, Erdbeben, Feuersbrünste und Überflutungen bekämpfen soll</a></p>
+			<span class="prg_info">16.07.08, Englisch</span>
+			
+				<p class="kommentare_trefferliste"><strong>Gro&szlig;erElch</strong> kommentiert: &quot;Sehr interessantes, kleines Spiel. Man lernt viel über...&quot;</p>
+				
+			
+		</div>
+	</div>
+	
+</div>
+
+<div class="programmteaser">
+	
+    <h3>
+		<span class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" /></span></span>
+		<a  href="/download/cloud-1152050.html" title="Cloud 1.43 - Download - heise online" id="prg_52050_name">Cloud 1.43</a>
+		<span class="lizenz">kostenlos</span>
+    </h3>
+    <div class="programm_info">
+		<div class="aktionen" id="prgid_52050">
+			<a href="#" class="inaktiv beobachten_box" data-id="52050">beobachten</a>
+			<span class="bewertung">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_standard.png" alt="" />
+				<span class="durchschnitt" title="gewichtet: 3,44 Punkte">(5)</span>
+			</span>
+		</div>
+		
+		<div class="text">
+			
+				<a  href="/download/cloud-1152050.html" title="Cloud 1.43 - Download - heise online">
+				<img src="http://www.heise.de/imagine/swvz-programme/H9s4r2ER2uRvSLOyJmUOipO8stU/gallery/Cloud.jpg" width="120" height="90" title="Cloud 1.43" alt="Cloud 1.43" /></a>
+			
+			<p><a title="Cloud 1.43 - Download - heise online" href="/download/cloud-1152050.html">In Traumwelten als fliegendes Kind mit Wolken spielen; Ziel ist es, einzelne Wölkchen zu einer großen Wolke zusammenzubringen, graue Wolken in weiße zu verwandeln oder es regnen zu lassen</a></p>
+			<span class="prg_info">19.04.13, Englisch, Test in c't 04/08 </span>
+			
+				
+				<p class="kommentare_trefferliste"><a href="/download/cloud-1152050.html#kommentare" title="Cloud 1.43 kommentieren">Jetzt kommentieren</a></p>
+			
+		</div>
+	</div>
+	
+</div>
+
+<div class="programmteaser">
+	
+    <h3>
+		<span class="system"><span class="nowrap">&nbsp;<img src="/software/icons/win_2013_min.png" width="16" height="16" title="Windows" alt="Windows" /></span></span>
+		<a  href="/download/visual-pinball-118292.html" title="Visual Pinball 9.1.5 - Download - heise online" id="prg_8292_name">Visual Pinball 9.1.5</a>
+		<span class="lizenz">Open Source</span>
+    </h3>
+    <div class="programm_info">
+		<div class="aktionen" id="prgid_8292">
+			<a href="#" class="inaktiv beobachten_box" data-id="8292">beobachten</a>
+			<span class="bewertung">
+				<span class="anzahl">Bewertung:</span>
+				<img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt.png" alt="" /><img width="15" height="15" src="/software/icons/stern_durchschnitt_halb.png" alt="" /><img width="15" height="15" src="/software/icons/stern_standard.png" alt="" />
+				<span class="durchschnitt" title="gewichtet: 3,00 Punkte">(3)</span>
+			</span>
+		</div>
+		
+		<div class="text">
+			
+				<a  href="/download/visual-pinball-118292.html" title="Visual Pinball 9.1.5 - Download - heise online">
+				<img src="http://www.heise.de/imagine/swvz-programme/vpSB41aNnh5cpplMPqNAGc2rc10/gallery/Visual-Pinball.jpg" width="120" height="90" title="Visual Pinball 9.1.5" alt="Visual Pinball 9.1.5" /></a>
+			
+			<p><a title="Visual Pinball 9.1.5 - Download - heise online" href="/download/visual-pinball-118292.html">Erstellt Flipper-Spiele; mit Download-Möglichkeit fertiger Spiele; der Quellcode ist unter der MAME-Lizenz frei für die nicht-kommerzielle Nutzung verfügbar. Download schnell und sicher von heise.de</a></p>
+			<span class="prg_info">10.06.13, Englisch</span>
+			
+				
+				<p class="kommentare_trefferliste"><a href="/download/visual-pinball-118292.html#kommentare" title="Visual Pinball 9.1.5 kommentieren">Jetzt kommentieren</a></p>
+			
+		</div>
+	</div>
+	
+</div>
+
+					
+					
+				</div>
+			
+			
+		
+</div>
+
+        		<div class="adbottom">
+    		    <BOTTOM></BOTTOM>
+    		</div>
+        	</div> 
+
+        	<div id="links"> 
+        		<ul id="kategorien">
+        		    <li><strong><a href="/download/top-downloads-50000505000/" title="Top-Downloads des Monats für Windows, Mac, Linux und Smartphones - Download - heise online ">Alle Rubriken</a></strong></li>
+        		    
+        			<li><strong><a href="/download/audio-video-50000505046/" title="Audio &amp; Video, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Audio &amp; Video</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/foto-grafik-50000505075/" title="Foto &amp; Grafik, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Foto &amp; Grafik</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/freizeit-hobby-50000505238/" title="Freizeit &amp; Hobby, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Freizeit &amp; Hobby</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/handy-fax-co.-50000505165/" title="Handy, Fax &amp; Co., Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Handy, Fax &amp; Co.</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/internet-50000505114/" title="Internet, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Internet</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/netzwerk-server-50000505360/" title="Netzwerk &amp; Server, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Netzwerk &amp; Server</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/office-50000505001/" title="Office, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Office</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/programmierung-50000505186/" title="Programmierung, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Programmierung</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/sicherheit-50000505176/" title="Sicherheit, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Sicherheit</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/spiel-spass-50000505262/" title="Spiel &amp; Spa&szlig;, Top-Downloads des Monats - Download - heise online " class="ausgeklappt">Spiel &amp; Spa&szlig;</a></strong>
+        			    
+        				<ul class="zweite_ebene">
+        				    
+        					<li><a href="/download/spiel-spass/action-shooter-50000505263/" title="Action-Shooter, Top-Downloads des Monats - Download - heise online ">Action</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/adventures-50000505270/" title="Adventures, Top-Downloads des Monats - Download - heise online ">Adventures</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/arcade-50000505359/" title="Arcade, Top-Downloads des Monats - Download - heise online ">Arcade</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/brettspiele-50000505358/" title="Brettspiele, Top-Downloads des Monats - Download - heise online ">Brettspiele</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/fahr-flugsimulationen-50000505273/" title="Fahr- &amp; Flugsimulationen, Top-Downloads des Monats - Download - heise online ">Fahr-/Flugsimulation</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/geschicklichkeit-50000505265/" title="Geschicklichkeitsspiele, Top-Downloads des Monats - Download - heise online ">Geschicklichkeit</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/jumpnrun-50000505264/" title="Jump&#39;n&#39;Run, Top-Downloads des Monats - Download - heise online ">Jump&#39;n&#39;Run</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/kartenspiele-50000505267/" title="Kartenspiele, Top-Downloads des Monats - Download - heise online ">Kartenspiele</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/kombinieren-knobeln-50000505266/" title="Kombinieren &amp; Knobeln, Top-Downloads des Monats - Download - heise online ">Kombinieren &amp; Knobeln</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/rollenspiele-50000505269/" title="Rollenspiele, Top-Downloads des Monats - Download - heise online ">Rollenspiele</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/sonstige-50000505276/" title="sonstige Spiele, Top-Downloads des Monats - Download - heise online ">sonstige</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/spezielle-simulationen-50000505274/" title="Spielsimulationen, Top-Downloads des Monats - Download - heise online " class="ausgewaehlt">Simulationen</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/spielkonsol-emulatoren-50000505275/" title="Spielkonsol-Emulatoren, Top-Downloads des Monats - Download - heise online ">Konsolen-Emulatoren</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/sportsimulationen-50000505272/" title="Sportsimulationen, Top-Downloads des Monats - Download - heise online ">Sportsimulationen</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/strategiespiele-50000505268/" title="Strategiespiele, Top-Downloads des Monats - Download - heise online ">Strategiespiele</a>
+        					
+        					</li>
+        				    
+        					<li><a href="/download/spiel-spass/wirtschafts-managementsimulationen-50000505271/" title="Wirtschafts-/Managementsimulationen, Top-Downloads des Monats - Download - heise online ">Wirtschaftssimulat.</a>
+        					
+        					</li>
+        				    
+        				</ul>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/systemsoftware-50000505199/" title="Systemsoftware, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Systemsoftware</a></strong>
+        			    
+        			</li>
+        		    
+        			<li><strong><a href="/download/wissenschaft-technik-50000505445/" title="Wissenschaft &amp; Technik, Top-Downloads des Monats - Download - heise online " class="auswaehlbar">Wissenschaft &amp; Technik</a></strong>
+        			    
+        			</li>
+        		    
+        		</ul>
+		
+        		<div class="contentbanner">
+        		    <CONTENTBANNER></CONTENTBANNER>
+        		</div>
+		
+        		
+        		<h4>Top-Suchbegriffe</h4>
+        		    <ul id="tagcloud">
+        		        
+        	    	    <li class="size2"><a href="/download/bahn-118135.html" title="Bahn - Download - heise online">Bahn</a></li>
+        		        
+        	    	    <li class="size0"><a href="/download/brainsbreaker-1125292.html" title="BrainsBreaker - Download - heise online">Brainsbreaker</a></li>
+        		        
+        	    	    <li class="size0"><a href="/download/chessy-1148061.html" title="Chessy - Download - heise online">Chessy</a></li>
+        		        
+        	    	    <li class="size3"><a href="/download/flightgear-1122187.html" title="FlightGear - Download - heise online">Flightgear</a></li>
+        		        
+        	    	    <li class="size1"><a href="/download/glest-1143012.html" title="Glest - Download - heise online">Glest</a></li>
+        		        
+        	    	    <li class="size3"><a href="/download/jose-1115684.html" title="jose - Download - heise online">Jose</a></li>
+        		        
+        	    	    <li class="size4"><a href="/download/mahjong-1146919.html" title="Mahjong - Download - heise online">Mahjong</a></li>
+        		        
+        	    	    <li class="size2"><a href="/download/muehle-1161164.html" title="Mühle - Download - heise online">Mühle</a></li>
+        		        
+        	    	    <li class="size0"><a href="/download/openarena-1154279.html" title="OpenArena - Download - heise online">Open Arena</a></li>
+        		        
+        	    	    <li class="size3"><a href="/download/puzzle-1141823.html" title="Puzzle - Download - heise online">Puzzle</a></li>
+        		        
+        	    	    <li class="size0"><a href="/download/qbubblemp-1148243.html" title="QBubbleMP - Download - heise online">Qbubblemp</a></li>
+        		        
+        	    	    <li class="size1"><a href="/download/scrabble.html" title="Scrabble - Download - heise online">Scrabble</a></li>
+        		        
+        	    	    <li class="size4"><a href="/download/skat-118182.html" title="Skat - Download - heise online">Skat</a></li>
+        		        
+        	    	    <li class="size2"><a href="/download/solitaire-1126773.html" title="Solitaire - Download - heise online">Solitaire</a></li>
+        		        
+        	    	    <li class="size1"><a href="/download/supertux-1142243.html" title="SuperTux - Download - heise online">Supertux</a></li>
+        		        
+        	    	    <li class="size4"><a href="/download/virus-1130509.html" title="Virus - Download - heise online">Virus</a></li>
+        		        
+        		    </ul>
+        		 
+
+        		<ul id="infos">
+        		    <li><a title="heise Software-Verzeichnis: Eintrag anmelden/vorschlagen" href="/download/neu_1">Programm vorschlagen</a></li>
+        			<li><a title="c't-Software-Kollektion" href="/download/cdm">c't-Software-Kollektion</a></li>
+        		    <li><a title="RSS-Feeds, Software-Rubriken" href="/download/rubriken">Rubrikenübersicht &bull; RSS</a></li>
+        		    <li><a title="Fragen und Antworten zum Software-Verzeichnis" href="/download/faq">Hilfe &bull; FAQ</a></li>
+        		</ul> 
+        	</div> 
+	
+        </div> 
+    
+    </div> 
+	
+    <div id="bannerzone">
+    	<div class="leaderboard"><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var ff_targeting; if (!ff_targeting) { ff_targeting = {}; ff_targeting.version = $.browser && $.browser.mozilla ? $.browser.version : false; }
+var rb = false; document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/software/sw-details;sz=728x90,468x60;tile=1;_FF_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_FF_', ff_targeting.version ? ';ff_version=' + ff_targeting.version : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/software/sw-details;sz=728x90,468x60;tile=1;_FF_;ord=9468200273?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/software/sw-details;sz=728x90,468x60;tile=1;_FF_;ord=9468200273?" /></a></div></noscript>
+</div>
+    	<div class="heiseadvert"></div>
+    	<div class="skyscraper"><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var ff_targeting; if (!ff_targeting) { ff_targeting = {}; ff_targeting.version = $.browser && $.browser.mozilla ? $.browser.version : false; }
+if (typeof rb != "undefined" && rb != true) document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/software/sw-details;sz=120x600,120x800,160x600,160x800;tile=2;_FF_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_FF_', ff_targeting.version ? ';ff_version=' + ff_targeting.version : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/software/sw-details;sz=120x600,120x800,160x600,160x800;tile=2;_FF_;ord=9468200273?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/software/sw-details;sz=120x600,120x800,160x600,160x800;tile=2;_FF_;ord=9468200273?" /></a></div></noscript>
+</div>
+    </div>
+
+</div> 
+
+
+<!-- Webtrekk 3.2.2, (c) www.webtrekk.com -->
+<script type="text/javascript" src="/js/ho/webtrekk-v3-bundle-heise-2013-01-21.js"></script>
+<script type="text/javascript">
+var pageConfig = {
+	contentId : "www.heise.de.download.alle-systeme.programmseite.spiel-spass.spezielle-simulationen.programmdetail.jeliza",
+	linkTrack : "standard",                    
+	//linkTrackAttribute : "id",
+	heatmap : "0",                             
+    trackId : "288689636920174",
+    pixelSampling : "",
+	form : ""                                  
+};
+var wt = new webtrekkV3(pageConfig);
+wt.contentGroup = {
+ 1: "www.heise.de",
+ 2: "download",
+ 3: "alle-systeme",
+ 4: "programmseite",
+ 5: "spiel-spass",
+ 6: "spezielle-simulationen",
+ 7: "",
+ 8: "programmdetail",
+ 9: "jeliza",
+10: "download"
+
+};
+wt.heatmapRefpoint = "logo_bereich";
+
+
+wt.sendinfo();
+
+</script>
+<noscript><div><img src="//prophet.heise.de/288689636920174/wt.pl?p=322,www.heise.de.download.alle-systeme.programmseite.spiel-spass.spezielle-simulationen.programmdetail.jeliza&cg1=www.heise.de&cg2=download&cg3=alle-systeme&cg4=programmseite&cg5=spiel-spass&cg6=spezielle-simulationen&cg8=programmdetail&cg9=jeliza&cg10=download" height="1" width="1" alt="" /></div></noscript>
+<!-- /Webtrekk -->
+
+</div>
+<!-- HEISE-APPLICATION-CROP-END -->
+
+
+
+<div style="display: inline;"><img id="ivw_pixel_intern" src="/ivw-bin/ivw/CP/download/jeliza-1155680.html" width="1" height="1" alt="" /></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    var IVW='<div style="display: inline;"><img id="ivw_pixel" src="http://heise.ivwbox.de/cgi-bin/ivw/CP/softwareverz;/download/jeliza-1155680.html?r=';
+    document.write(IVW + '&amp;d=' + (Math.random()*100000) + '" width="1" height="1" alt="" /><' + '/div>');
+//--><!]]>
+</script>
+<script type="text/javascript" src="/support/lib/mclient/mclient-1.0.js"></script>
+<noscript>
+    <div style="display: inline;"><img src="http://heise.ivwbox.de/cgi-bin/ivw/CP/softwareverz;/download/jeliza-1155680.html?r=&amp;d=9129.37886054976" width="1" height="1" alt="" /></div>
+</noscript>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    window.onunload=function() {};
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+var iam_data = {
+    "st":"heise",
+    "cp":"softwareverz",
+    "sv":"in",
+    "co":"/download/jeliza-1155680.html"
+}
+iom.c(iam_data);
+</script>
+
+<!-- SZMFRABO VERSION="1.2" -->
+    <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+        var szmvars="heise//CP//softwareverz";
+    //--><!]]>
+    </script>
+    <script src="http://heise.ivwbox.de/2004/01/survey.js" type="text/javascript"></script>
+<!-- /SZMFRABO -->
+
+
+
+
+    
+
+<div style="display: inline;"><img src="/avw-bin/ivw/CP/difftest/jorge" width="1" height="1" alt="" /></div>
+<div style="display: inline;"><img src="/avw-bin/ivw/CP/difftest/casey" width="1" height="1" alt="" /></div>
+
+	<ul id="navi_bottom">
+
+	
+		<li class="left"><a href="/Privacy-Policy-der-Heise-Zeitschriften-Verlag-GmbH-Co-KG-4860.html">Datenschutzhinweis</a> </li>
+	
+
+	
+		<li class="left"><a href="/download/impressum/">Impressum</a> </li>
+	
+
+	
+		<li class="left"><a href="mailto:software@heise.de">Kontakt</a> </li>
+	
+
+	
+		<li class="left"><a href="/mediadaten/online/">Mediadaten</a> </li>
+	
+
+	
+
+
+    
+        
+    
+
+	
+		
+		<li class="right"><a href="http://www.heise-medien.de/zeitschriften/">Copyright © 2014 Heise Zeitschriften Verlag</a></li>
+		
+	
+
+	
+</ul>
+
+
+
+
+
+<script type="text/javascript" src="/js/softwarevz/swvz.min.js?7feb117395cf6323696f"></script>
+</body>
+</html>
+
